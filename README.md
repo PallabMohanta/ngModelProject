@@ -1,5 +1,5 @@
 **#SetUp**
-run 'npm install' first
+Delete 'package-lock.json' and then run 'npm install' first
 
 # NgModelProject
 
